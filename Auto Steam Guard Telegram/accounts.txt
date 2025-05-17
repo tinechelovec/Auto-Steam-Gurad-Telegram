@@ -1,0 +1,24 @@
+{
+  "111111": [
+    {
+
+    "name": "Аккаунт 1", 
+    "shared_secret": "jsjsjsjsjs="
+
+    },
+    {
+
+    "name": "Аккаунт 2", 
+    "shared_secret": "abcdee="
+    
+    }
+  ],
+  "2222222": [
+    {
+        
+        "name": "Рабочий", 
+        "shared_secret": "abdalda="
+        
+    }
+  ]
+}
